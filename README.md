@@ -1,6 +1,6 @@
 # ips_project
 
-A new Flutter project.
+mobile aplication indoor positioning
 
 ## Getting Started
 
